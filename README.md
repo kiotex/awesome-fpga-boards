@@ -5,6 +5,11 @@ List of awesome FPGA boards with schematics
 - [FPGA on USB Port](https://gitlab.com/suhassiddu/fpga-on-usbport)
 
 # KiCAD
+- [Custom Spartan-7 FPGA board for beginners](https://github.com/asmi84/kicad-projects/tree/master)
+      - [eevblog](https://www.eevblog.com/forum/fpga/custom-spartan-7-board-for-beginners/)
+      - [Design Review (Spartan 7 FPGA) - Schematic & PCB - Phil's Lab #63](https://youtu.be/au9hlIVZteE)
+  
+
 - [Sitina1](https://gitlab.com/zephray/sitina1)
       - FPGA based CCD camera
 - [ethernet-acquisition](https://gitlab.com/harmoninstruments/ethernet-acquisition)
